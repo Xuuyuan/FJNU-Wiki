@@ -1,0 +1,12 @@
+.indent {
+    text-indent: 2em;
+}
+
+.right-align {
+    text-align: right;
+}
+
+del {
+  text-decoration: line-through;
+  color: #999;
+}
