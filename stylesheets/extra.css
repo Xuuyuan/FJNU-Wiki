@@ -1,0 +1,46 @@
+.indent {
+    text-indent: 2em;
+}
+
+.right-align {
+    text-align: right;
+}
+
+/* 历史遗留产物，可忽略 */
+del {
+  text-decoration: line-through;
+  color: #999;
+}
+
+/* 隐藏右上角的仓库按钮 */
+.md-source {
+    display: none;
+}
+
+.md-header__source {
+    display: none;
+}
+
+/* 修复网站字体在移动端设备浏览时可能无法正常加粗 */
+strong {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-weight: bold !important;
+}
+
+/* 强制表格单元格不换行，并启用横向滚动 */
+.md-typeset table:not([class]) {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+}
+
+/* 表头不换行 */
+.md-typeset table:not([class]) th {
+    white-space: nowrap;
+}
+
+/* 内容不换行 */
+.md-typeset table:not([class]) td {
+    white-space: nowrap;
+}
