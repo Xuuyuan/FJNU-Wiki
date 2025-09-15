@@ -34,7 +34,6 @@ nav:
     - 入学准备: new/before.md
     - 防诈骗指南: new/anti-fraud.md
     - 军训指南: new/military_training.md
-    - 校园导航: new/safari.md
     - 联系方式: new/chat.md
   - 生活指南: 
     - 餐饮: live/eat.md
@@ -55,6 +54,7 @@ nav:
     - 行政服务和费用缴纳: service/services.md
     - 网络及邮件服务: service/network.md
     - 学生组织和学生工作: service/group.md
+    - 校园导航: service/safari.md
     - 学校信息: service/info.md
   - 资料分享: repo.md
   - 学院详情:
