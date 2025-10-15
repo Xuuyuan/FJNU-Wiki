@@ -23,7 +23,7 @@
     心语面包、**库迪咖啡**（超市靠桃苑一侧的门旁）
 
     #### 千叶园美食餐厅 {#eat-qishan-qianyeyuan}
-    [面夫子](#qianyeyuan-mfz)、六合云厨面馆、墨西哥辣拌饭、状元侠叉烧饭、南洋炒饭、徽派盖浇饭、[伊樂拉面](#qianyeyuan-yllm)、[百味佳自选快餐](#qianyeyuan-bwjzxkc)、[港式煨汤](#qianyeyuan-gswt)、食光记·鱼蛙舍、食光记·品膳快餐、[饺饺者手工饺子](#qianyeyuan-jjzsgjz)、永德鑫自助餐（量贩自助）、西北风味兰州拉面、沙县小吃、西式扒饭、一碗咖喱、火烧云下饭砂锅菜、莆仙小吃、朱家小馆羊肉面羊杂面、韩石记石锅拌饭、鑫友福麻辣烫、巴思克蛋糕·面包、**霸王茶姬**、[**肯德基**](#qianyeyuan-kdj)、**古茗**、潮汕粥铺
+    [面夫子](#qianyeyuan-mfz)、六合云厨面馆、墨西哥辣拌饭、状元侠叉烧饭、南洋炒饭、徽派盖浇饭、[伊樂拉面](#qianyeyuan-yllm)、[百味佳自选快餐](#qianyeyuan-bwjzxkc)、[港式煨汤](#qianyeyuan-gswt)、食光记·鱼蛙舍、食光记·品膳快餐、[饺饺者手工饺子](#qianyeyuan-jjzsgjz)、永德鑫自助餐（量贩自助）、西北风味兰州拉面、沙县小吃、西式扒饭、一碗咖喱、火烧云下饭砂锅菜、莆仙小吃、[朱家小馆羊肉面羊杂面](#qianyeyuan-zjxgyrmyzm)、[韩石记石锅饭](#qianyeyuan-hsjsgf)、鑫友福麻辣烫、巴思克蛋糕·面包、**霸王茶姬**、[**肯德基**](#qianyeyuan-kdj)、**古茗**、潮汕粥铺
     
     #### 溢香美食餐厅（千叶园餐厅楼上） {#eat-qishan-yixiang}
     周记麻辣烫·麻辣香锅、[牛小贰原汤牛肉面](#yixiang-nxeytnrm)、[聚贤套餐饭](#yixiang-jxtcf)、[张记石磨肠粉](#yixiang-zjsmcf)、[佳佳香鲜烫牛肉粉](#yixiang-jjxxtnrf)、[∞号汤粉·潮汕汤粉王](#yixiang-xhtfcstfw)
@@ -84,7 +84,7 @@
     [自选食堂 **（含三素一荤 5 元营养餐）**](#suiyuan-zxst)、**心语面包**、量贩自助（仅午餐）
 
     #### 展园餐厅（2 楼） {#eat-qishan-zhanyuan}
-    **肯德基（小站）**、[乡外乡套餐饭](#zhanyuan-xwxtcf)、[咖喱饱饱](#zhanyuan-glbb)、鲜炖速食铺、[**金日升烤盘饭**](#zhanyuan-jrskpf)、蔡叔炸鸡烤肉饭、[福记麻辣烫](#zhanyuan-fjmlt)、**星巴克**、永兴发港式餐厅、莆仙风味馆、[营养早餐](#zhanyuan-yyzc)、[食膳简餐](#zhanyuan-ssjc)、食堂哥牛肉饭、[赣味小炒](#zhanyuan-gwxc)、[莫小喃自选水饺](#zhanyuan-mxnzxsj)、**益禾堂**、[犇犇客家牛肉面](#zhanyuan-bbkjnrm)、[淳百味](#zhanyuan-cbw)、[重庆面馆](#zhanyuan-cqmg)、[稻香缘渔粉](#zhanyuan-dxyyf)、[西北拉面](#zhanyuan-xblm)、[煮飞的鸡·云南鸡汤米线](#zhanyuan-zfdjynjtmx)、[喜姐炸串](#zhanyuan-xjzc)、嘿贝野烘焙轻食
+    [**肯德基小站餐厅**](#zhanyuan-kdjxzct)、[乡外乡套餐饭](#zhanyuan-xwxtcf)、[咖喱饱饱](#zhanyuan-glbb)、鲜炖速食铺、[**金日升烤盘饭**](#zhanyuan-jrskpf)、蔡叔炸鸡烤肉饭、[福记麻辣烫](#zhanyuan-fjmlt)、**星巴克**、永兴发港式餐厅、莆仙风味馆、[营养早餐](#zhanyuan-yyzc)、[食膳简餐](#zhanyuan-ssjc)、食堂哥牛肉饭、[赣味小炒](#zhanyuan-gwxc)、[莫小喃自选水饺](#zhanyuan-mxnzxsj)、**益禾堂**、[犇犇客家牛肉面](#zhanyuan-bbkjnrm)、[淳百味](#zhanyuan-cbw)、[重庆面馆](#zhanyuan-cqmg)、[稻香缘渔粉](#zhanyuan-dxyyf)、[西北拉面](#zhanyuan-xblm)、[煮飞的鸡·云南鸡汤米线](#zhanyuan-zfdjynjtmx)、[喜姐炸串](#zhanyuan-xjzc)、嘿贝野烘焙轻食
 
     #### 星雨湖（人文楼旁边） {#eat-qishan-xingyuhu}
     **711 便利店**、[**瑞幸咖啡**](#luckin)、**蜜雪冰城**
@@ -94,7 +94,7 @@
     本区域从南门出门后要再步行 700m 左右（出门左转直走到达红绿灯后右转直走）。  
     正荣财富中心属于商圈，该范围内的外卖也无法送进校内（标注校园送的除外，见[外卖送到哪里（旗山校区）](#takeaway-where)）。
 
-    奶茶咖啡：KOI、星巴克、霸王茶姬、瑞幸咖啡、爷爷不泡茶、一点点、蜜雪冰城、古茗、喜茶、茉莉奶白、陈文鼎、唐沫茶兮
+    奶茶咖啡：KOI、星巴克、霸王茶姬、[瑞幸咖啡](#luckin)、爷爷不泡茶、一点点、蜜雪冰城、古茗、喜茶、茉莉奶白、陈文鼎、唐沫茶兮
     汉堡披萨：塔斯汀、麦当劳、华莱士 等
     炸鸡炸串：喜姐炸串、正新鸡排 等
     其它：醉得意、凡塔斯牛排、星财记香港冰室·茶餐厅、哈哈碳都、小叫天、绝味鸭脖、蜀都丰、周麻婆、大丰收、张亮麻辣烫、草本汤 等
@@ -212,8 +212,8 @@
     - 大馄饨类 `正餐` **12元**
     - 汤圆类 `正餐` **7元**
 
-??? note "朱家小馆羊杂牛肉面"
-    <a id="qianyeyuan-zjxgyznrm"></a>
+??? note "朱家小馆羊肉面羊杂面"
+    <a id="qianyeyuan-zjxgyrmyzm"></a>
 
     - 汤面系列 `正餐` **12元**
     - 炸酱面系列 `正餐` **11元**
@@ -718,8 +718,8 @@
 
 #### 展园 {#detailed-menu-qishan-zhanyuan}
 
-??? note "肯德基（小站）"
-    <a id="zhanyuan-kdjxz"></a>
+??? note "肯德基小站餐厅"
+    <a id="zhanyuan-kdjxzct"></a>
 
     - 滑蛋乳酪吐司系列三件套 `早餐` **18元**
     - 滑蛋乳酪吐司系列两件套 `早餐` **9元**
