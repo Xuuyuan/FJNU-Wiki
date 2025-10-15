@@ -62,7 +62,7 @@
     **茶百道**、[高八斗套餐饭](#huaxiangyuan-gbdtcf)、[美侍郎瓦香鸡](#huaxiangyuan-mslwxj)、台美味黑金卤肉饭、[汤居仕瓦罐煨汤](#huaxiangyuan-tjswgwt)、食光记·品膳快餐、三沁园套餐饭、江晓笼现蒸小笼包、食惠自选食堂、[面夫子](#huaxiangyuan-mfz)、[小鲜肉手工水饺](#huaxiangyuan-xxrsgsj)、渝巷里重庆小面、赣湘小厨、[豫味拉面](#huaxiangyuan-ywlm)、[沙县美食](#huaxiangyuan-sxms)、[云尚云南小锅米线](#huaxiangyuan-ysynxgmx)、馋小玥麻辣烫、现擀汉堡、[河林鸿老鸭粉丝](#huaxiangyuan-hlhlyfs)、梦鲜味花溪牛肉粉、糖克拉手作面包
     
     #### 百草园餐厅（2 楼）  {#eat-qishan-baicaoyuan}
-    [**麦当劳**](#baicaoyuan-mdl)、**库迪咖啡**、[雨佳烧烤（凌晨营业可外卖）](#baicaoyuan-yjsk)、[梦想咖喱](#baicaoyuan-mxgl)、[福记麻辣烫](#baicaoyuan-fjmlt)、魔肶鸡腿饭、赣湘小炒、[东福兴港式烧腊](#baicaoyuan-dfxgssl)、尚味简餐、[香熏鸭仔面](#baicaoyuan-xxyzm)、[富榕瓦罐煨汤](#baicaoyuan-frwgwt)、[旺比包子](#baicaoyuan-wbbz)、[米婆婆](#baicaoyuan-mpp)、[淳百味](#baicaoyuan-cbw)、[百草高汤粉面](#baicaoyuan-bcgtfm)、[百草羊肉粉面](#baicaoyuan-bcyrfm)、[旺旺客家牛肉面](#baicaoyuan-wwkjnrm)、螺当铺螺狮粉、[港式扒饭](#baicaoyuan-gsbf)、[蜀合记·成都担担面；（以下为三味食屋内的档口）**古茗**](#baicaoyuan-shjcdddm)、谷膳·闽味台湾卤肉饭、[东方匠作中国汉堡](#baicaoyuan-dfjzzghb)
+    [**麦当劳**](#baicaoyuan-mdl)、**库迪咖啡**、[雨佳烧烤（凌晨营业可外卖）](#baicaoyuan-yjsk)、[梦想咖喱](#baicaoyuan-mxgl)、[福记麻辣烫](#baicaoyuan-fjmlt)、魔肶鸡腿饭、赣湘小炒、[东福兴港式烧腊](#baicaoyuan-dfxgssl)、尚味简餐、[香熏鸭仔面](#baicaoyuan-xxyzm)、[富榕瓦罐煨汤](#baicaoyuan-frwgwt)、[旺比包子](#baicaoyuan-wbbz)、[米婆婆](#baicaoyuan-mpp)、[淳百味](#baicaoyuan-cbw)、[百草高汤粉面](#baicaoyuan-bcgtfm)、[百草羊肉粉面](#baicaoyuan-bcyrfm)、[旺旺客家牛肉面](#baicaoyuan-wwkjnrm)、螺当铺螺狮粉、[港式扒饭](#baicaoyuan-gsbf)、[蜀合记·成都担担面](#baicaoyuan-shjcdddm)、谷膳·闽味台湾卤肉饭、[东方匠作中国汉堡](#baicaoyuan-dfjzzghb)
 
 === "北区·校外-西门"
 
