@@ -10,18 +10,18 @@
 
     - 四改六人间：桂苑 6-16 号楼、榕苑（四改六人间，上床下桌桌桌+上床下床）
     ??? warning "查看图片"
-        ![桂苑宿舍图片](https://fjnu-oss.nekoark.com/dorm-gui.jpg?x-oss-process=style/0zwebp)
+        ![桂苑宿舍图片](./pics/dorm-gui.jpg)
 
         [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/669887950000000005005d4f?source=webshare&xhsshare=pc_web&xsec_token=ABnXUflw4o3HSwBnm3__tpgg0AvaprKJFKWkQVAJHLz6c=&xsec_source=pc_share)
     - 四人间：桂苑 1-5 号楼、桃苑、李苑 1-8 号楼、兰苑（四人间，上床下桌）
     ??? warning "查看图片"
-        ![四人间宿舍图片](https://fjnu-oss.nekoark.com/dorm-4.jpg?x-oss-process=style/0zwebp)
+        ![四人间宿舍图片](./pics/dorm-4.jpg)
 
         [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/64a082fb000000001303eec5?source=webshare&xhsshare=pc_web&xsec_token=ABQ30spH9gbt1JDKMn42umjdj6JHKaMMjdu-QT6hGGCC0=&xsec_source=pc_share)
     - 六人间：李苑 9-11 号楼（六人间，上床下桌）
     ??? warning "查看图片"
-        ![李苑 9-11 号楼宿舍图片](https://fjnu-oss.nekoark.com/dorm-li9-11.jpg?x-oss-process=style/0zwebp)
-        ![李苑 9-11 号楼宿舍图片2](https://fjnu-oss.nekoark.com/dorm-li9-11-2.jpg?x-oss-process=style/0zwebp)
+        ![李苑 9-11 号楼宿舍图片](./pics/dorm-li9-11.jpg)
+        ![李苑 9-11 号楼宿舍图片2](./pics/dorm-li9-11-2.jpg)
 
         [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/66cdc305000000001d0184e0?source=webshare&xhsshare=pc_web&xsec_token=ABK0CMq6uiwJOREz4DVdVnWmC1EG83CQarvoMGoCWrWhc=&xsec_source=pc_share)
 
