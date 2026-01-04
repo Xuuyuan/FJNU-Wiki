@@ -21,7 +21,7 @@
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
     
     
       
@@ -29,7 +29,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -2507,7 +2507,7 @@
 <h1 id="_1">网络及邮件服务</h1>
 <h2 id="campus-sim-card">校园流量卡（套餐）</h2>
 <p><strong>此处的校园卡指代的是运营商提供给在校大学生使用的电话流量卡套餐。</strong> 由学校官方发放的、作为门禁及食堂消费的、真正意义上的校园卡请 <a href="../services/#student-id-card">点击此处</a>。</p>
-<p><strong>校园流量卡并非强制要求办理，请根据自己的需求进行选择。</strong> 校园流量卡与查成绩、选修课、访问教务系统、选课抢课等等均无关联，没有办卡也不会影响到任何东西（除了极少数情况下可能需要用到，但是都有 <a href="#login-without-campus-network">同等的替代方案</a>）。若有人以此类话术建议你办卡，请万分警惕！他人邀请你办卡可以得到 100-150 元/张 不等的提成，而“羊毛出在羊身上”的道理大家都懂。若确认有办卡需要，可以通过入学期间的各种上门推销或自行前往校内的运营商营业厅办理。</p>
+<p><strong>校园流量卡并非强制要求办理，请根据自己的需求进行选择。</strong> 校园流量卡与查成绩、选修课、访问教务系统、选课抢课等等均无关联。若有人以此类话术建议你办卡，请万分警惕！他人邀请你办卡可以得到 100-150 元/张 不等的提成，而“羊毛出在羊身上”的道理大家都懂。若确认有办卡需要，可以通过入学期间的各种上门推销或自行前往校内的运营商营业厅办理。</p>
 <p>根据群友的说法，校园流量套餐大约为 49 元/月，内含 100G 通用流量、30G 专属流量（部分 APP 可用）、500 分钟通话时长、500 条短信。另叠加 10 元/月的福州高校宽带电视融合套餐，即 100Mbps、限 2 个设备同时在线的 <a href="#campus-network">校园网</a>。可能有合约（例如未使用到一定时长销户时需要交补偿金），办理时还请注意。</p>
 <details class="note">
 <summary>未经测试的校园网购买方法</summary>
@@ -2524,22 +2524,26 @@
 </details>
 <h2 id="campus-network">校园网</h2>
 <h3 id="cn-info">基本说明</h3>
-<p>校园网是通过由学号注册的 校趣多 微信小程序/线下营业厅购买对应的套餐（或办理<a href="#campus-sim-card">校园流量卡（套餐）</a>所另叠加的福州高校宽带电视融合套餐），通过教学楼、宿舍楼全覆盖的 WiFi 连接即可，离开学校时无法使用。电信/联通/移动并无本质区别。（学校不允许学生自行接入宽带，通过运营商的官方APP申请办理宽带时会被告知无法办理！）</p>
+<p>校园网是通过由学号注册的 校趣多 微信小程序/线下营业厅购买对应的套餐（或办理<a href="#campus-sim-card">校园流量卡（套餐）</a>所另叠加的福州高校宽带电视融合套餐），通过教学楼、宿舍楼全覆盖的 WiFi 连接即可，离开学校时无法使用。电信/联通/移动并无本质区别。学校不允许学生自行接入宽带，通过运营商的官方APP申请办理宽带时会被告知无法办理。</p>
 <p><strong>校园网并非强制要求办理，请根据自己的需求进行选择。</strong></p>
-<details class="tip">
-<summary>对需要使用代理、远程控制、Gitee 的用户的提醒</summary>
-<p>2025 年 6 月 13 日起，校园网（住宿区出口）在无任何事先公告的前提下屏蔽了 RDP 协议、SSH 服务以及大量代理协议，此举导致通过校园网连接时几乎无法使用任何远程控制服务。若需要使用相关功能，请尤其注意校园网的影响。2025 年 6 月 25 日起，校园网（旗山校区住宿区出口）在无任何事先公告的前提下屏蔽了 Gitee。</p>
-<p>2025 年 9 月 17 日更新：以上策略中的 <a href="https://gitee.com">Gitee</a> 已恢复正常访问。</p>
-</details>
+<div class="admonition warning">
+<p class="admonition-title">校园网相关限制提醒</p>
+<ol>
+<li>2025年6月13日起，校园网屏蔽了 RDP 协议、SSH 服务以及大量代理协议，此举导致通过校园网连接时几乎无法使用任何远程控制服务。</li>
+<li><del>2025年6月25日起，校园网（旗山校区）屏蔽了 <a href="https://gitee.com">Gitee</a></del>。2025年9月17日起，该策略已解除。</li>
+<li>2025年11月起，校园网阻断了 <a href="https://zhihu.com">知乎</a> 主域名的访问。</li>
+<li>2025年12月23日起，校园网开始对共享上网进行检测、不允许设备开热点分享网络给其它设备进行上网（另说允许分享一设备）。被检测到的设备会被封禁 MAC 地址约 30 分钟。</li>
+</ol>
+</div>
 <h3 id="cn-speed">网络速率</h3>
-<p>校园网套餐提供 15Mbps、30Mbps 的档位，和校园流量卡绑定的套餐则提供 100Mbps 的档位。实际上能跑到的速率视情况而不同，一般教学周时 100Mbps 也只能跑到 80Mbps 左右，30Mbps 能跑到 40Mbps。</p>
+<p>校园网套餐提供 15/30Mbps（校趣多）、20/100Mbps（线下） 的档位，和校园流量卡绑定的套餐提供 100Mbps 的档位。实际速率视实际环境而有所不同，一般教学周时 100Mbps 也只能跑到 80Mbps 左右，30Mbps 能跑到 40Mbps。<strong>提醒：100Mbps = 12.5MB/s</strong></p>
 <h3 id="cn-device-limit">设备限制</h3>
-<p>每个账号限制最多 2 台设备同时在线（每台路由器、笔记本电脑、手机、平板等均计为 1 台），但不限制设备再开热点分给其它设备。</p>
+<p>每个账号限制最多 2 台设备同时在线（每台路由器、笔记本电脑、手机、平板等均计为 1 台）。</p>
 <h3 id="cn-buy">购买方法</h3>
 <div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="线下购买" name="__tabbed_1" type="radio" /><input id="线上购买" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="线下购买">线下购买</label><label for="线上购买">线上购买</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
-<p>校园网有运营商单宽套餐和融合套餐，供同学们自主按需选择。单宽套餐及融合套餐均需要携带身份证等证件至校园网服务中心、各运营商校内营业厅实名办理。单宽套餐有 35 元/月, 30Mbps 速率, 限 2 设备；360 元/年, 100Mbps 速率, 限 2 设备。融合套餐均为 59 元/月, 100Mbps 速率, 限 2 设备。</p>
+<p>校园网有运营商单宽套餐和融合套餐，供同学们自主按需选择。单宽套餐及融合套餐均需要携带身份证等证件至校园网服务中心、各运营商校内营业厅实名办理。单宽套餐为 35 元/月, 30Mbps 速率, 限 2 设备；360 元/年, 100Mbps 速率, 限 2 设备。融合套餐均为 59 元/月, 100Mbps 速率, 限 2 设备。</p>
 <table>
 <thead>
 <tr>
@@ -2572,10 +2576,6 @@
 <p>今年学校 2025 级新生(含协和学院)办理校园宽带业务时，需到校园网服务中心、各运营商校内营业厅现场办理，部分同学在咨询校园网套餐相关问题，在此做个统一说明：</p>
 <p>我校目前提供独立宽带业务套餐（线下简称“单宽套餐”）及融合宽带业务套餐（线下简称“融合套餐”），其中单宽套餐指校园用户开设独立于手机号码的宽带账户（学生不用更换原手机号），涵盖包月、包年（如包月新的 35 元/月套餐，网速由原有的 10Mbps 升级至 20Mbps；包年新的 360 元/年套餐，网速由原有的 50Mbps 升级至 100Mbps）；融合套餐指使用属地为福州地区的手机号码开设的宽带账户（学生需要使用福州地区的手机号），套餐内包涵号卡语音、短信、流量、宽带（网速 100Mbps）等权益。</p>
 <p>学校明确要求任何运营商要尊重学生个人意愿，不得强制购买融合套餐。此外，不同校园网套餐除了资费及网速不同，均可享受相同的校园网服务。如有任何强制办理某种套餐的行为，可拨打校园网监督和举报电话：0591-22867829。</p>
-<div class="admonition note">
-<p class="admonition-title">备注</p>
-<p>@Xuuyuan：360 元/年、100 Mbps的套餐目前似乎只能线下办理，线上（2025 级新生不允许通过线上办理）依然只有老的套餐类型。</p>
-</div>
 </details>
 </div>
 <div class="tabbed-block">
@@ -2593,11 +2593,27 @@
 <div class="tabbed-set tabbed-alternate" data-tabs="2:3"><input checked="checked" id="无线上网" name="__tabbed_2" type="radio" /><input id="有线上网" name="__tabbed_2" type="radio" /><input id="通过路由器连接校园网" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="无线上网">无线上网</label><label for="有线上网">有线上网</label><label for="通过路由器连接校园网">通过路由器连接校园网</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
-<p>连接名为 <code>1x.fjnu.edu.cn</code> 或 <code>webportal.fjnu.edu.cn</code> 的 WiFi，输入校趣多的账号密码进行认证即可。</p>
-<ul>
-<li>webportal 验证方式：连接 WiFi 后会自动弹出登录页面（或者手动访问 <a href="http://2.2.2.2">2.2.2.2</a> ），进行登录即可。</li>
-<li>1x 验证方式：连接 <code>1x.fjnu.edu.cn</code>，身份为学号、匿名身份留空、密码为校趣多的密码、阶段二身份和 CA 证书选择无或不验证，其它信息保持默认。</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>验证方式</th>
+<th>连接方法</th>
+<th>区别</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>webportal</td>
+<td>连接名为 <code>webportal.fjnu.edu.cn</code> 的 WiFi 后会自动弹出登录页面（或者手动访问 <a href="http://2.2.2.2">2.2.2.2</a> ），输入学号、校趣多的密码进行登录即可。</td>
+<td>不支持无感身份认证（例：从宿舍到教室后需要重新登录），若连接失败会显示失败的原因</td>
+</tr>
+<tr>
+<td>1x</td>
+<td>连接名为 <code>1x.fjnu.edu.cn</code> 的 WiFi，身份为学号、匿名身份留空、密码为校趣多的密码、阶段二身份和 CA 证书选择无或不验证，其它信息保持默认。</td>
+<td>支持无感身份认证（例：从宿舍到教室后依然可以直接连接），若连接失败不显示原因</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div class="tabbed-block">
 <ul>
@@ -2606,7 +2622,7 @@
 </ul>
 </div>
 <div class="tabbed-block">
-<p>路由器连接校园网原理同有线连接，只是mentohust代替了锐捷认证客户端完成了认证的步骤。具体方法请自行了解，搜索关键词：mentohust。</p>
+<p>路由器连接校园网原理 同 有线上网，只是 mentohust 代替了锐捷认证客户端完成认证。具体方法请自行了解，搜索关键词：mentohust。该方法原则上不受校园网规则允许，可能触发封禁（见：<a href="#cn-info">校园网相关限制提醒</a>）。</p>
 <p>受线路所限，学校所有宿舍楼（旗山校区李苑 9-11 号楼除外）的网络连接速率最高到达 100Mbps，单线多播无法突破此上限。</p>
 </div>
 </div>
@@ -2617,12 +2633,12 @@
 <li>在用户界面即可进行配置运营商、修改密码、踢出设备、查询购买记录、账务流水、查看及修改 MAC 绑定信息等操作。</li>
 </ol>
 <h3 id="login-without-campus-network">在未购买校园网的情况下访问校内网站</h3>
-<p>部分校内网站（如<a href="https://syaqjy.fjnu.edu.cn/fjnu_ksxt">实验室安全教育考试</a>、<a href="https://tcxt.fjnu.edu.cn">体测系统</a>、<a href="https://gfgl.fjnu.edu.cn/iams/home.html#/index">校园地图</a>、食堂人流量）限制了只有使用校园网才能访问，但同样有替代方法可用。以下是一些参考方案：</p>
+<p>部分校内网站（如<a href="https://syaqjy.fjnu.edu.cn/fjnu_ksxt">实验室安全教育考试</a>、<a href="https://tcxt.fjnu.edu.cn">体测系统</a>、<a href="https://gfgl.fjnu.edu.cn/iams/home.html#/index">校园地图</a>、食堂人流量、晚查寝打卡系统）限制了只有使用校园网才能访问，但同样有替代方法可用。以下是一些参考方案：</p>
 <ul>
 <li>向他人借用校园网账号进行访问。</li>
 <li>使用 笃行楼机房（笃行楼中 2 楼及以上的、尾号为 18-21 的教室）/图书馆机房 进行访问。</li>
-<li><del>【建议使用】连接名为 <code>webportal.fjnu.edu.cn</code> 的 WiFi，在要求输入账号密码时直接返回/关闭页面（部分手机型号有 WiFi 不可用时自动切换为流量上网的功能，所以在连接 WiFi 时请手动关闭数据网络）。大部分校内网站都在本 WiFi 的访问白名单中，无需进行校园网登录即可访问。</del> 据测试，2025 年 10 月 28 日起 <code>webportal.fjnu.edu.cn</code> WiFi 的白名单站点均失效，本方法不再有效。</li>
-<li>【建议使用】使用 <a href="#campus-vpn">福建师范大学校园 VPN 服务</a> ，此方法同样适用于在校外访问校内网站。<strong>2025 年 10 月 23 日起，校园综合服务平台暂时整改关闭，无相应VPN权限的暂时无法自助开通，即不适用该方法。大四学生默认开通 WebVPN 权限。</strong></li>
+<li><del>连接名为 <code>webportal.fjnu.edu.cn</code> 的 WiFi，在要求输入账号密码时直接返回/关闭页面（部分手机型号有 WiFi 不可用时自动切换为流量上网的功能，所以在连接 WiFi 时请手动关闭数据网络）。大部分校内网站都在本 WiFi 的访问白名单中，无需进行校园网登录即可访问。</del> 2025年10月28日起本方法不再有效。</li>
+<li>使用 <a href="#campus-vpn">福建师范大学校园 VPN 服务</a> ，此方法同样适用于在校外访问校内网站。2025年10月23日起本方法仅大四及以上学生有效。</li>
 </ul>
 <h3 id="eduroam">通过 eduroam 在外校上网</h3>
 <div class="admonition tip">
@@ -2634,7 +2650,7 @@
 <p>福师大已于 2019 年正式成为了 eduroam 无线漫游服务的联盟学校之一，在所有 <a href="https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" target="_blank">成员列表</a> 中的其它高校/科研单位进行访问时，均可连接其它高校/科研单位内名为 <code>eduroam</code> 的 WiFi 进行上网（当然，在福师大校内无法以本校学生身份通过 eduroam 进行连接）。</p>
 <div class="admonition note">
 <p class="admonition-title">提示</p>
-<p>根据群友反馈，截至 2025 年 9 月 15 日，在师大校内无法以校外用户身份正常连接 eduroam WiFi。</p>
+<p>根据群友反馈，截至2025年9月15日，在师大校内无法以校外用户身份正常连接 eduroam WiFi。</p>
 </div>
 <h4 id="eduroam_1">支持 eduroam 的高校/科研单位</h4>
 <p>中国大陆的学校：点击查看 <a href="https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" target="_blank">成员列表</a> 。</p>
@@ -2655,26 +2671,20 @@
 </div>
 <h2 id="campus-vpn">校园 VPN 服务</h2>
 <p>参考资料：<a href="https://net.fjnu.edu.cn/43/d4/c5318a82900/page.htm">《福建师范大学 vpn 服务》</a> 、<a href="https://xxhb.fjnu.edu.cn/98/ff/c15356a301311/page.htm">《福建师范大学 WebVPN 服务使用指南》</a> 、<a href="https://xxhb.fjnu.edu.cn/71/a3/c15356a356771/page.htm">《福建师范大学 aTrustVPN 服务使用指南》</a></p>
-<p>为保证福建师范大学内部信息系统的网络安全，同时方便教职工在校外访问校内各类服务资源，网络与数据中心特提供 VPN 服务。</p>
-<div class="admonition tip">
-<p class="admonition-title">通俗易懂版解释</p>
-<p>校园 VPN 服务是由学校提供的，方便学生在校外（或未购买校园网）时访问校内网站、通过学校账号访问知网等科研网站时使用的服务。</p>
-</div>
+<p>校园 VPN 服务是由学校网络中心提供的，方便学生在校外（或未购买校园网）时访问校内网站、通过学校账号访问知网等科研网站时使用的服务。</p>
 <div class="admonition danger">
 <p class="admonition-title">提示</p>
 <p>WebVPN 系统仅供我校师生在校外访问校内资源时使用，严禁将 VPN 系统转借他人使用，由私自外借 VPN 账号给我校信息系统带来的安全问题，由外借人承担全部责任。</p>
 </div>
 <h3 id="_3">适用人员</h3>
-<p>校园 WebVPN 服务对研究生、教职工、大四本科生为默认开启，本科生（大四除外）则需要自行启用；SSLVPN 服务对教职工默认开启，本科生、研究生则需要<strong>自行启用</strong>。启用方法如下：</p>
+<p>校园 WebVPN 服务对研究生、教职工、大四本科生为默认开启，SSLVPN 服务对教职工默认开启。</p>
+<p><del>自行启用方法如下：</del></p>
 <ol>
-<li>点击进入 <a href="https://school.app.fjnu.edu.cn/inte-service-platform-hall-schoolweb/topbar/person">福建师范大学校园综合服务平台</a> 。</li>
-<li>登录后在左侧菜单栏选择“其他服务”。</li>
-<li>自助开通“sslvpn 服务”、“邮箱服务”及“webvpn 服务”。</li>
+<li><del>点击进入 <a href="https://school.app.fjnu.edu.cn/inte-service-platform-hall-schoolweb/topbar/person">福建师范大学校园综合服务平台</a> 。</del></li>
+<li><del>登录后在左侧菜单栏选择“其他服务”。</del></li>
+<li><del>自助开通“sslvpn 服务”、“邮箱服务”及“webvpn 服务”。</del></li>
 </ol>
-<div class="admonition tip">
-<p class="admonition-title">提示</p>
-<p>2025 年 10 月 23 日起，校园综合服务平台已关闭。目前暂无其它开通方法。</p>
-</div>
+<p>2025年10月23日起校园综合服务平台关闭，该方法失效。已通过该方法开通权限的均被追回。</p>
 <h3 id="use-vpn">使用 VPN 访问学校内网</h3>
 <div class="tabbed-set tabbed-alternate" data-tabs="3:2"><input checked="checked" id="WebVPN" name="__tabbed_3" type="radio" /><input id="SSLVPNaTrust" name="__tabbed_3" type="radio" /><div class="tabbed-labels"><label for="WebVPN">WebVPN</label><label for="SSLVPNaTrust">SSLVPN（aTrust）</label></div>
 <div class="tabbed-content">
@@ -2762,10 +2772,6 @@
 <li>办理业务的手机号与 福Star APP 所绑定的手机号码一致</li>
 </ul>
 <p>办理方法：前往校内对应运营商的营业网点办理开通。</p>
-<div class="admonition tip">
-<p class="admonition-title">提示</p>
-<p>其实作用不大，平时用得到校内网站的场景还算比较少，<a href="#campus-vpn">校园 VPN 服务</a> 足以胜任。</p>
-</div>
 
 
 
@@ -2786,7 +2792,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="2025年11月8日 15:06:11 UTC">2025年11月8日</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="2026年1月4日 16:00:31 UTC">2026年1月4日</span>
   </span>
 
     
@@ -2916,10 +2922,10 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.top", "navigation.footer", "navigation.instant", "navigation.instant.progress", "search.highlight", "content.action.edit", "content.action.view"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.top", "navigation.footer", "navigation.instant", "navigation.instant.progress", "search.highlight", "content.action.edit", "content.action.view"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
       
     
   </body>
