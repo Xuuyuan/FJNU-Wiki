@@ -19,13 +19,15 @@
 
 - 对大部分人来说都不建议购买苹果系列的电脑，除非您是需求刁钻或者是对计算机和设计行业有一定认识，能自行解决软件兼容性问题的同学。
 - 计算机专业的同学：轻薄本推荐购买搭载 AMD-7840/7845/8845H 或 Intel-U5/U7/U9 或之后更新的处理器 且 搭载板载 32G 内存或后期可加装内存条 的，游戏本随意。
-- 理工科以及需要进行科学计算的专业（金融工程等）同上。当然实际上两三千的笔记本也能够勉强应付正常的需求。很多时候遇到的问题比起硬件性能而更是您写出了 O(N^3) 级别的算法。（笔者曾见过一位数院同学使用不到 2000 元的笔记本跑 matlab 机器学习）。当然如果您对性能有苛刻的要求，也有替代的方法：
+- 理工科以及需要进行科学计算的专业（金融工程等）同上。当然实际上两三千的笔记本也能够勉强应付正常的需求。很多时候遇到的问题比起硬件性能而更是您写出了 O(N^3) 级别的算法。（笔者曾见过一位数院同学使用不到 2000 元的笔记本跑 Matlab 机器学习）。当然如果您对性能有苛刻的要求，也有替代的方法：
 - 对手头拮据或者极客来说。额外推荐另一种方法：租赁云计算服务器（例如微软 Azure 或者阿里云等具有[学生优惠](https://ac-wiki.org/general-skills/student-discounts/#_10)）在上面进行诸如深度学习模型训练、matlab 计算等。
 
 四改六宿舍的桌子很难放下 24 寸的显示器，标准四人间/标准六人间放下 27 寸的显示器后依然绰绰有余。
 
 !!! note "备注"
     @Xuuyuan：需要购买笔记本电脑可以关注公众号【笔吧评测室】，推文中对每款笔记本的评价和参数介绍都比较全。
+
+    @Xuuyuan（2026年）：以上所有信息基于 2024、2025 年经验。近年笔记本电脑 CPU 性能有所提升，但同时受内存及硬盘涨价影响、笔记本电脑价格持续走高，同配置情况下今年的笔记本电脑基本比去年贵 1000 元以上。请酌情选配。
 
 ## 证件照规格要求 {#id-photo}
 
@@ -38,9 +40,9 @@
 学校统一办理银行卡的发卡行：中国建设银行福州仓山分行
 
 - 满 18 周岁的需带上身份证，必要时带上录取通知书（有的银行需要）。
-- 银行卡绑定的手机号机主必须为持卡人本人，如若机主非自己，请到三大运营商营业厅，父母和你需要带上身份证，去营业厅办理过户手续。刚过户完的最好开个证明，以防银行需要过户证明。
+- 银行卡绑定的手机号机主必须为持卡人本人，如若机主非自己，请在父母陪同下到三大运营商营业厅办理过户手续。刚过户完的最好开个证明，以防信息没有及时同步而银行需要过户证明。
 - 未满 18 周岁的，如若需要开学前激活，需要带上户口本、监护人身份证、本人身份证，由父母陪同到银行办理开户手续，较为繁杂。
-- 学校银行卡默认密码：955330
+- 学校银行卡默认密码：955330。
 
 ## 可能用到的 APP {#possible-apps}
 
@@ -53,10 +55,10 @@
 | U 校园 AI 版 | [点击下载](https://sj.qq.com/appdetail/cn.unipus.cloud) | 《大学英语》课程使用 |
 | 步道乐跑 | [点击下载](https://sj.qq.com/appdetail/com.lptiyu.tanke) | 《大学体育》课程、[校园跑](../study/physical-fitness.md#campus-running)使用 |
 | 易班 | [点击下载](https://www.yiban.cn/mobile/index.html) | 马工程系列课程，[青马易战](../study/choose.md#qingma-project)使用 |
-| WakeUp 课程表 | [点击下载](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) | 课程表软件，纯净无广告（可以用福 Star 替代，但是这个更好用） |
+| WakeUp 课程表 | [点击下载](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) | 课程表软件， ~~纯净无广告~~ 新版本已有广告，建议用旧版（可以用福 Star 替代，但是这个更好用） |
 | 小依 | [点击下载](https://www.qtx2015.com/) | 学校统一配置的洗衣机使用的 APP，不过可以[自行购买其它洗衣机](../live/living.md#dorm-facilities) |
 | \*e 福州 | [点击下载](https://sj.qq.com/appdetail/com.digitalchina.mobile.dfhfz1) | 地铁、公交刷码（可以用支付宝替代） |
-| \*DeepSeek | [点击下载](https://download.deepseek.com/app/) | 伟大，无需多言 |
+| \*DeepSeek | [点击下载](https://download.deepseek.com/app/) | 或许是国内最好用的 LLM |
 
 ## 党团关系转接 {#league-member-transfer}
 
@@ -118,24 +120,24 @@
 3. 在课程页面，点击 `F12` 打开开发者控制台，选择上方的 `Console/控制台` 标签，将 `top` 切换至当前页面（名称为 A 开头，域名为 `mcwk.mycourse.cn` 的页面），然后在底下输入 `finishWxCourse();` 后即可立即完成当前课程（PS：若完成速度过快可能触发风控，建议在进入课程页面后约 5 秒后再执行）。
 4. 将第 3 种方法写为 JavaScript 脚本，循环每 10 秒执行一次 `finishWxCourse();` 方法。进入每节课程页面后会自动调用完成方法，由本人手动完成图形验证码即可。此处提供一份 [油猴](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd) 脚本，在油猴中选择【添加新脚本】后将以下代码粘贴后保存即可使用。
 
-```javascript
-// ==UserScript==
-// @name         安全微课自动完成
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  每隔 10 秒自动执行 finishWxCourse() 函数
-// @author       You
-// @match        *://mcwk.mycourse.cn/*
-// @grant        none
-// @run-at       document-idle
-// ==/UserScript==
-(function() {
-    'use strict';
-    setInterval(() => {
-        finishWxCourse();
-    }, 10000);
-})();
-```
+    ```javascript
+    // ==UserScript==
+    // @name         安全微课自动完成
+    // @namespace    http://tampermonkey.net/
+    // @version      1.0
+    // @description  每隔 10 秒自动执行 finishWxCourse() 函数
+    // @author       You
+    // @match        *://mcwk.mycourse.cn/*
+    // @grant        none
+    // @run-at       document-idle
+    // ==/UserScript==
+    (function() {
+        'use strict';
+        setInterval(() => {
+            finishWxCourse();
+        }, 10000);
+    })();
+    ```
 
 ## 新生入学考试 {#freshman-exam}
 
