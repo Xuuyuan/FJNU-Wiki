@@ -20,7 +20,7 @@
     ![仓山校区地图](https://xq.fjnu.edu.cn/_upload/article/images/a9/ff/66ddf674470ca9868fb3dc64e388/4aff7dfc-0e22-4449-ae92-4a413e9cd68b.jpg)
 
 === "三维可视化房屋管理系统"
-    [点击进入](https://gfgl.fjnu.edu.cn/iams/home.html#/index)，仅[校园网](.\network#campus-network)环境下可用。
+    [点击进入](https://gfgl.fjnu.edu.cn/iams/home.html#/index)，仅[校园网](.\network.md#campus-network)环境下可用。
 
 ## 旗山校区教学楼分布图 {#qishan-buildings-map}
 
