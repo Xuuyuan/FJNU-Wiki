@@ -8,10 +8,10 @@
 
 协会欢迎任何对网络安全技术感兴趣的同学加入
 
-2025届QQ迎新群: [1011728032](https://qm.qq.com/q/3eCm3Ln9q8)
+2026届QQ迎新群: [933860198](https://qm.qq.com/q/heTYKiKaM)
 
 ## 相关链接
 
 协会官网: [https://www.fjnusec.cn/](https://www.fjnusec.cn/)
 
-协会Wiki: [https://wiki.fjnusec.cn/](https://wiki.fjnusec.cn/)
+协会Wiki: [https://fjnu-nisa.github.io/NISA-Wiki/](https://fjnu-nisa.github.io/NISA-Wiki/)
