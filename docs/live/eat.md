@@ -29,7 +29,7 @@
     周记麻辣烫·麻辣香锅、[牛小贰原汤牛肉面](#yixiang-nxeytnrm)、[聚贤套餐饭](#yixiang-jxtcf)、[张记石磨肠粉](#yixiang-zjsmcf)、[佳佳香鲜烫牛肉粉](#yixiang-jjxxtnrf)、[∞号汤粉·潮汕汤粉王](#yixiang-xhtfcstfw)
     
     #### 文化街美食餐厅（千叶园餐厅楼上） {#eat-qishan-wenhuajie}
-    0090 汉堡工厂、[云南小锅米线](#wenhuajie-ynxgmx)、[林真棒卤味饭](#wenhuajie-lzblwf)、烧腊仙·港式烧鸭饭、猪角·猪脚饭大王、[津五爷大块牛肉饭](#wenhuajie-jwydknrf)、[北方手工饺子](#wenhuajie-bfsgjz)、[张记饸饹面](#wenhuajie-zjhlm)、[京元自选食堂](#wenhuajie-jyzxst)、烧腊仙·京兆刘福记、[**杨国福麻辣烫**](#wenhuajie-ygfmlt)、川湘瓦缸炖肉、贵州羊肉粉、赣湘小厨、[元气锅盔](#wenhuajie-yqgk)、[京元饭堂·舒食自助](#wenhuajie-jyftsszz)、**一点点（奶茶）**、茶香鸡米饭、[小街胡同牛杂面](#wenhuajie-xjhtnzm)、沙县小吃、咕嘟花小甲花甲粉面、[玛格利塔披萨](#wenhuajie-mgltps)
+    0090 汉堡工厂、[云南小锅米线](#wenhuajie-ynxgmx)、[林真棒卤味饭](#wenhuajie-lzblwf)、烧腊仙·港式烧鸭饭、猪角·猪脚饭大王、[北方手工饺子](#wenhuajie-bfsgjz)、[张记饸饹面](#wenhuajie-zjhlm)、[京元自选食堂](#wenhuajie-jyzxst)、烧腊仙·京兆刘福记、川湘瓦缸炖肉、贵州羊肉粉、赣湘小厨、[元气锅盔](#wenhuajie-yqgk)、[京元饭堂·舒食自助](#wenhuajie-jyftsszz)、**一点点（奶茶）**、茶香鸡米饭、[小街胡同牛杂面](#wenhuajie-xjhtnzm)、沙县小吃、咕嘟花小甲花甲粉面、[玛格利塔披萨](#wenhuajie-mgltps)
 
 === "北区·桃苑"
 
@@ -305,12 +305,6 @@
 
     - 自选卤味搭配 `正餐` **11元**
 
-??? note "津五爷大块牛肉饭"
-    <a id="wenhuajie-jwydknrf"></a>
-
-    - 牛肉饭系列 `正餐` **15元**
-    - 辣肉饭系列 `正餐` **13元**
-
 ??? note "北方手工饺子"
     <a id="wenhuajie-bfsgjz"></a>
 
@@ -334,11 +328,6 @@
     - 小吃类 `早餐` **2元**
     - 粥类 `早餐` **2.5元**
     - 豆浆或玉米汁 `早餐` **2.5元**
-
-??? note "杨国福麻辣烫"
-    <a id="wenhuajie-ygfmlt"></a>
-
-    - 自选菜称重2.18元50克 `正餐` **16元**
 
 ??? note "元气锅盔"
     <a id="wenhuajie-yqgk"></a>
