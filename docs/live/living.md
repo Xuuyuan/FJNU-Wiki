@@ -35,10 +35,10 @@
 
 === "仓山校区"
 
-宿舍一般一住即四年，不同学院宿舍具体人数规格不同（如文学院既有六人上床下桌桌桌，也有六人上床下桌；外院有四人间）。六人间的宿舍包含上床下桌\* 2 和上床下床\* 2，两张桌子分别分开成三份，空间相对狭窄，需要安装台式电脑的相对不方便。每个人的部分宽度约 60cm，最底下的柜子区域高度为 30cm。  
-南安楼：外院研究生居住，二人间。
-
-仓山校区楼型较多，照片请见 [小红书链接](https://www.xiaohongshu.com/discovery/item/66b0a4df0000000005038e56?source=webshare&xhsshare=pc_web&xsec_token=ABbLMuEOeHkzPEyTfAQzvvVetaeIci7F_4JKRk5lIuwCw=&xsec_source=pc_share)。
+    宿舍一般一住即四年，不同学院宿舍具体人数规格不同（如文学院既有六人上床下桌桌桌，也有六人上床下桌；外院有四人间）。六人间的宿舍包含上床下桌\* 2 和上床下床\* 2，两张桌子分别分开成三份，空间相对狭窄，需要安装台式电脑的相对不方便。每个人的部分宽度约 60cm，最底下的柜子区域高度为 30cm。  
+    南安楼：外院研究生居住，二人间。
+    
+    仓山校区楼型较多，照片请见 [小红书链接](https://www.xiaohongshu.com/discovery/item/66b0a4df0000000005038e56?source=webshare&xhsshare=pc_web&xsec_token=ABbLMuEOeHkzPEyTfAQzvvVetaeIci7F_4JKRk5lIuwCw=&xsec_source=pc_share)。
 
 ### 洗衣机、热水器 {#dorm-facilities}
 
@@ -206,11 +206,7 @@
 
 ### 晚查寝打卡平台 {#stucheck-platform}
 
-2026年1月起，学校学工处启用[晚查寝打卡平台](https://stucheck.fjnu.edu.cn)。
-
-- ~~截至2026年3月5日，该平台暂时还仅在 `纪检监察学院2025级` 进行测试，暂不知晓何时应用至全校。~~
-- ~~2026年3月起，该平台在 `环资、教院、马院、美院、纪检学院2025级；法学院2024级` 中进行测试。~~
-- 2026年5月18日起，该平台推广到 `全校2025级（含本硕博）；法学院2024级` 应用。
+2026年1月起，学校学工处启用[晚查寝打卡平台](https://stucheck.fjnu.edu.cn)。2026年5月18日起，该平台推广到 `全校2025级（含本硕博）；法学院2024级` 应用。
 
 #### 须知
 
