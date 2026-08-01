@@ -80,6 +80,12 @@
 
 ![福建师大校歌](https://www.fjnu.edu.cn/_upload/article/images/b6/06/1475029145c190a13d3df472875f/84b33769-8bdb-4e11-9bdf-ae7ec130f74a.jpg)
 
+## 学校校历 {#school-calendar}
+
+校历是由教务处发布的按学期的工作时间表，并遵循校历进行排课及假期安排等工作。校历并不因法定节假日而改动，遇到法定节假日时会正常放假、具体调课安排届时另行通知。校历中黑色字体为工作日、红色字体为假日（会因法定节假日而改动）、蓝色字体为[个性化培养周](../study/choose.md#customized-program)或期末统一考试周（并不代表过完考试周才能放假，什么时候放假取决于你的考试科目什么时候考完）。
+
+![2026-2027-1 校历](pics/2026-2027-1-school-calendar.png)
+
 ## 历年高考录取分数 {#admission-scores}
 
 招生办提供了查询渠道，[点击此处进入](https://zsb.fjnu.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/9.rst?_p=YXM9MTImdD0xNTYzJnA9MSZtPU4m&mongo=false)。
