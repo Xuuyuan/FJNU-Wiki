@@ -162,7 +162,7 @@ eduroam WiFi 对一个账号仅支持一台设备上网。多个设备上网时�
 
 ## 邮件服务 {#email}
 
-我校面向教职工、博士生开放 `xxx@fjnu.edu.cn` 的校园邮箱使用权限，面向本科生、硕士生开放 `学号@student.fjnu.edu.cn` 的校园邮箱使用权限。
+我校面向教职工开放 `xxx@fjnu.edu.cn` 的校园邮箱使用权限，面向博士生开放 `xxx@yjs.fjnu.edu.cn` 的校园邮箱使用权限，面向本科生、硕士生开放 `学号@student.fjnu.edu.cn` 的校园邮箱使用权限。
 
 - 教职工、博士生入口：[福建师范大学电子邮件系统](https://mail.fjnu.edu.cn/)
 - 本科生、硕士生入口：[福建师范大学学生邮箱邮件系统](http://student.fjnu.edu.cn/)
