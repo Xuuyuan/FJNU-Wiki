@@ -13,6 +13,7 @@ jobs:
             fetch-depth: 0
             sparse-checkout: |
               docs
+              mkdocs.yml
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
