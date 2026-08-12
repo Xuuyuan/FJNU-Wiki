@@ -1,5 +1,7 @@
 site_name: 福建师范大学Wiki
 site_url: https://fjnu.nekoark.com/
+site_description: 福建师范大学非官方Wiki，由百度贴吧吧友共同维护的新生指南。
+site_author: 福师大吧吧务组
 repo_url: https://github.com/Xuuyuan/FJNU-Wiki
 edit_uri: edit/main/docs/
 theme:
@@ -97,4 +99,4 @@ plugins:
       enabled: !ENV [CI, false]
       exclude_committers:
         - web-flow
-copyright: 'Copyright &copy; 2025 FJNU-Wiki.'
+copyright: 'Copyright &copy; 2026 FJNU-Wiki.'
