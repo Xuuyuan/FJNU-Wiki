@@ -111,7 +111,7 @@
 
 ### 考核要求
 
-需要完成 50+20（2025 年）节教育课程，并通过最终考试。课程全程大约需要 4 小时。
+需要完成 50+25（2026 年）节教育课程，并通过最终考试。课程全程大约需要 4 小时。
 
 ### 学习通道
 
@@ -121,11 +121,13 @@
 
 ### 逃课教程
 
-GitHub 有相关项目，请自行了解（使用第三方工具有风险，请知悉）。
+GitHub 有相关项目，请自行了解或在此处F12（使用第三方工具有风险，请知悉）。
 
-<!-- 以下方法自行选择即可。
+<!--
 
-1. [安全微伴自动刷课脚本](https://github.com/hangone/WeBan) 该工具可以自动化完成课程及期末考试，经群友测试在 2025 学年可用，全程大约需挂机 40 分钟。
+以下方法自行选择即可，建议选择第 1 种。
+
+1. [安全微伴自动刷课脚本](https://github.com/hangone/WeBan) 该工具可以自动化完成课程及期末考试，在 2026 学年可用，全程大约需挂机 40 分钟。[Windows 版本快速下载地址](https://gh-proxy.com/https://github.com/hangone/WeBan/releases/latest/download/WeBan-windows-x64.exe)
 2. [安全微伴期末考试题库](https://github.com/pooneyy/WeibanQuestionsBank/blob/main/weibanQuestionBank.md) ，本题库可用于完成最终的期末考试。进入页面后，点按 `Ctrl + F` 即可进行搜索。
 3. 在课程页面，点击 `F12` 打开开发者控制台，选择上方的 `Console/控制台` 标签，将 `top` 切换至当前页面（名称为 A 开头，域名为 `mcwk.mycourse.cn` 的页面），然后在底下输入 `finishWxCourse();` 后即可立即完成当前课程（PS：若完成速度过快可能触发风控，建议在进入课程页面后约 5 秒后再执行）。
 4. 将第 3 种方法写为 JavaScript 脚本，循环每 10 秒执行一次 `finishWxCourse();` 方法。进入每节课程页面后会自动调用完成方法，由本人手动完成图形验证码即可。此处提供一份 [油猴](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd) 脚本，在油猴中选择【添加新脚本】后将以下代码粘贴后保存即可使用。
@@ -147,7 +149,8 @@ GitHub 有相关项目，请自行了解（使用第三方工具有风险，请�
             finishWxCourse();
         }, 10000);
     })();
-    ``` -->
+    ```
+-->
 
 ## 新生入学考试 {#freshman-exam}
 
