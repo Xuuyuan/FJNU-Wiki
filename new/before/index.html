@@ -2442,7 +2442,7 @@
 <h2 id="freshman-safety-class">新生安全微课</h2>
 <p>新生安全微课是所有学生均需要完成的新生安全教育线上微课。</p>
 <h3 id="_2">考核要求</h3>
-<p>需要完成 50+20（2025 年）节教育课程，并通过最终考试。课程全程大约需要 4 小时。</p>
+<p>需要完成 50+25（2026 年）节教育课程，并通过最终考试。课程全程大约需要 4 小时。</p>
 <h3 id="_3">学习通道</h3>
 <ol>
 <li>在规定时间内点击进入 <a href="https://weiban.mycourse.cn/#/login">安全微伴</a> 网站。</li>
@@ -2450,32 +2450,34 @@
 <li>完成每一项任务并通过最终考试即可。</li>
 </ol>
 <h3 id="_4">逃课教程</h3>
-<p>GitHub 有相关项目，请自行了解（使用第三方工具有风险，请知悉）。</p>
-<!-- 以下方法自行选择即可。
+<p>GitHub 有相关项目，请自行了解或在此处F12（使用第三方工具有风险，请知悉）。</p>
+<!--
 
-1. [安全微伴自动刷课脚本](https://github.com/hangone/WeBan) 该工具可以自动化完成课程及期末考试，经群友测试在 2025 学年可用，全程大约需挂机 40 分钟。
+以下方法自行选择即可，建议选择第 1 种。
+
+1. [安全微伴自动刷课脚本](https://github.com/hangone/WeBan) 该工具可以自动化完成课程及期末考试，在 2026 学年可用，全程大约需挂机 40 分钟。[Windows 版本快速下载地址](https://gh-proxy.com/https://github.com/hangone/WeBan/releases/latest/download/WeBan-windows-x64.exe)
 2. [安全微伴期末考试题库](https://github.com/pooneyy/WeibanQuestionsBank/blob/main/weibanQuestionBank.md) ，本题库可用于完成最终的期末考试。进入页面后，点按 `Ctrl + F` 即可进行搜索。
 3. 在课程页面，点击 `F12` 打开开发者控制台，选择上方的 `Console/控制台` 标签，将 `top` 切换至当前页面（名称为 A 开头，域名为 `mcwk.mycourse.cn` 的页面），然后在底下输入 `finishWxCourse();` 后即可立即完成当前课程（PS：若完成速度过快可能触发风控，建议在进入课程页面后约 5 秒后再执行）。
 4. 将第 3 种方法写为 JavaScript 脚本，循环每 10 秒执行一次 `finishWxCourse();` 方法。进入每节课程页面后会自动调用完成方法，由本人手动完成图形验证码即可。此处提供一份 [油猴](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd) 脚本，在油猴中选择【添加新脚本】后将以下代码粘贴后保存即可使用。
 
-    ```javascript
-    // ==UserScript==
-    // @name         安全微课自动完成
-    // @namespace    http://tampermonkey.net/
-    // @version      1.0
-    // @description  每隔 10 秒自动执行 finishWxCourse() 函数
-    // @author       You
-    // @match        *://mcwk.mycourse.cn/*
-    // @grant        none
-    // @run-at       document-idle
-    // ==/UserScript==
-    (function() {
-        'use strict';
-        setInterval(() => {
-            finishWxCourse();
-        }, 10000);
-    })();
-    ``` -->
+    <div class="highlight"><pre><span></span><code><span class="c1">// ==UserScript==</span>
+<span class="c1">// @name         安全微课自动完成</span>
+<span class="c1">// @namespace    http://tampermonkey.net/</span>
+<span class="c1">// @version      1.0</span>
+<span class="c1">// @description  每隔 10 秒自动执行 finishWxCourse() 函数</span>
+<span class="c1">// @author       You</span>
+<span class="c1">// @match        *://mcwk.mycourse.cn/*</span>
+<span class="c1">// @grant        none</span>
+<span class="c1">// @run-at       document-idle</span>
+<span class="c1">// ==/UserScript==</span>
+<span class="p">(</span><span class="kd">function</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="s1">'use strict'</span><span class="p">;</span>
+<span class="w">    </span><span class="nx">setInterval</span><span class="p">(()</span><span class="w"> </span><span class="p">=&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nx">finishWxCourse</span><span class="p">();</span>
+<span class="w">    </span><span class="p">},</span><span class="w"> </span><span class="mf">10000</span><span class="p">);</span>
+<span class="p">})();</span>
+</code></pre></div>
+-->
 
 <h2 id="freshman-exam">新生入学考试</h2>
 <p>2025 级疑似仅 音乐学 专业会组织入学考试，其它专业均无入学考试。</p>
@@ -2501,7 +2503,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="2026年8月13日 14:23:24 UTC">2026年8月13日</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="2026年8月24日 01:57:14 UTC">2026年8月24日</span>
   </span>
 
     
