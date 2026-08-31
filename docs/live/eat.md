@@ -22,13 +22,13 @@
     \*京东小店、\*街头馋嘴量贩零食、[\*瑞幸咖啡（文化街入口）](#luckin)、\*糖巢量贩零食（文化街入口）、\*库迪咖啡（文化街内侧入口）、芒果优选生活超市
 
     #### 千叶园美食餐厅 {#eat-qishan-qianyeyuan}
-    [\*面夫子](#qianyeyuan-mfz)、花小小新疆炒米粉、悦轻荷自选简餐、雨佳烧烤、徽派盖浇饭、[伊樂拉面](#qianyeyuan-yllm)、拌壹桶干拌冒菜、[\*肯德基](#qianyeyuan-kdj)、\*古茗、[百味佳自选快餐](#qianyeyuan-bwjzxkc)、[港式煨汤](#qianyeyuan-gswt)、[饺饺者手工饺子](#qianyeyuan-jjzsgjz)、潮味鲜、[聚贤套餐（量贩自助-原永德鑫）](#yixiang-jxtcf)、西北风味兰州拉面、沙县小吃、每日鲜榨、集市小火锅、一碗咖喱、鲜榨果汁、粤福记烧腊、\*鑫龙福麻辣烫、巴思克蛋糕·面包、\*霸王茶姬、自选粉面、饭有范儿·鲍汁捞饭、[韩石记石锅拌饭](#qianyeyuan-hsjsgf)
+    [\*面夫子](#qianyeyuan-mfz)、花小小新疆炒米粉、悦轻荷自选简餐、[雨佳烧烤](#baicaoyuan-yjsk)、徽派盖浇饭、[伊乐拉面](#qianyeyuan-yllm)、拌壹桶干拌冒菜、[\*肯德基](#qianyeyuan-kdj)、\*古茗、[百味佳自选快餐](#qianyeyuan-bwjzxkc)、[港式煨汤](#qianyeyuan-gswt)、[饺饺者手工饺子](#qianyeyuan-jjzsgjz)、潮味鲜、聚贤套餐（量贩自助-原永德鑫）、西北风味兰州拉面、沙县小吃、每日鲜榨、集市小火锅、一碗咖喱、鲜榨果汁、粤福记烧腊、\*鑫龙福麻辣烫、巴思克蛋糕·面包、\*霸王茶姬、自选粉面、饭有范儿·鲍汁捞饭、[韩石记石锅拌饭](#qianyeyuan-hsjsgf)
     
     #### 溢香美食餐厅（千叶园餐厅楼上） {#eat-qishan-yixiang}
     意觅达意面披萨能量轻食、汉霸汉堡、筷子王、卤味坊
     
     #### 文化街美食餐厅（千叶园餐厅楼上） {#eat-qishan-wenhuajie}
-    [8号汤粉·潮汕汤粉王](#yixiang-xhtfcstfw)、\*一点点（奶茶）、[元气锅盔](#wenhuajie-yqgk)、赣湘小厨、柳州螺狮粉杂粮鱼粉、天天烧烤、[\*京元自选食堂](#wenhuajie-jyzxst)、[小街胡同牛杂面](#wenhuajie-xjhtnzm)、[张记饸饹面](#wenhuajie-zjhlm)、[北方手工饺子](#wenhuajie-bfsgjz)、烧腊大饭店、\*猪角·猪脚饭大王、木之家烤盘饭、高汤手工面疙瘩、[云南小锅米线](#wenhuajie-ynxgmx)、0090 汉堡工厂、桃嫂生烫牛肉粉面、擂椒土钵饭、梦鲜味·赣湘小厨、鱼你沸腾、[张记石磨肠粉](#yixiang-zjsmcf)
+    [8号汤粉·潮汕汤粉王](#wenhuajie-xhtfcstfw)、\*一点点（奶茶）、[元气锅盔](#wenhuajie-yqgk)、赣湘小厨、柳州螺狮粉杂粮鱼粉、天天烧烤、[\*京元自选食堂](#wenhuajie-jyzxst)、[小街胡同牛杂面](#wenhuajie-xjhtnzm)、[张记饸饹面](#wenhuajie-zjhlm)、[北方手工饺子](#wenhuajie-bfsgjz)、烧腊大饭店、\*猪角·猪脚饭大王、木之家烤盘饭、高汤手工面疙瘩、[云南小锅米线](#wenhuajie-ynxgmx)、0090 汉堡工厂、桃嫂生烫牛肉粉面、擂椒土钵饭、梦鲜味·赣湘小厨、鱼你沸腾、[张记石磨肠粉](#wenhuajie-zjsmcf)
 
 === "北区·桃苑"
 
@@ -45,23 +45,23 @@
 
 === "北区·桂苑"
 
-    本区域靠近桂苑、榕苑。此部分修订于 2025 年 9 月 14 日。
+    本区域靠近桂苑、榕苑。此部分档口信息修订于 2026 年 8 月 31 日。
 
     #### 翠竹园餐厅（共青团广场旁）  {#eat-qishan-cuizhuyuan}
-    [**塔斯汀中国汉堡**](#cuizhuyuan-tstzghb)、**蜜雪冰城**、[老上海肠粉馄饨](#cuizhuyuan-lshcfht)、爱米渔粗粮·渔粉、正宗隆江猪脚饭、[蒸佰味](#cuizhuyuan-zbw)、[西安大碗面](#cuizhuyuan-xadwm)、[回洋號沙茶面](#cuizhuyuan-hyhscm)、[麺大厨蜀味记](#cuizhuyuan-mdcswj)、[沙小二醉沙县](#cuizhuyuan-sxezsx)、[小哥瓦罐](#cuizhuyuan-xgwg)、小湘菜精品套餐、[张记港式烧腊](#cuizhuyuan-zjgssl)、美而美原切牛排、小厨扒饭、江西牛骨粉、好又饱·食尚快餐、[**临榆炸鸡腿**](#cuizhuyuan-lyzjt)、[**田阿婆麻辣烫**](#cuizhuyuan-tapmlt)、**果汁源鲜榨果汁**
+    [\*塔斯汀中国汉堡](#cuizhuyuan-tstzghb)、\*蜜雪冰城、[老上海肠粉馄饨](#cuizhuyuan-lshcfht)、爱米渔粗粮·渔粉、小厨扒饭、[蒸佰味](#cuizhuyuan-zbw)、[西安大碗面](#cuizhuyuan-xadwm)、[回洋號沙茶面](#cuizhuyuan-hyhscm)、[麺大厨蜀味记·炸酱面·抄手](#cuizhuyuan-mdcswj)、[沙小二·醉沙县](#cuizhuyuan-sxezsx)、[小哥瓦罐](#cuizhuyuan-xgwg)、川湘菜精品套餐、[张记港式烧腊](#cuizhuyuan-zjgssl)、美而美原切牛排、果汁源·鲜榨果汁、云南鸡汤米线、螺二嘴柳州螺狮粉、营养早餐、好又饱·食尚快餐、[\*临榆炸鸡腿](#cuizhuyuan-lyzjt)
 
     #### 天兴教育超市（翠竹园餐厅楼上）  {#eat-qishan-tianxing}
-    **心语面包**、豪客吉汉堡、[**瑞幸咖啡**](#luckin)
+    心语面包、豪客吉汉堡、[\*瑞幸咖啡](#luckin)
 
 === "北区·榕苑"
 
-    本区域靠近榕苑，标识：麦当劳 WiFi 字样。此部分修订于 2025 年 9 月 14 日。
+    本区域靠近榕苑，标识：麦当劳 WiFi 字样。此部分档口信息修订于 2026 年 8 月 31 日。
 
     #### 花香园餐厅（1 楼） {#eat-qishan-huaxiangyuan}
-    **茶百道**、[高八斗套餐饭](#huaxiangyuan-gbdtcf)、[美侍郎瓦香鸡](#huaxiangyuan-mslwxj)、台美味黑金卤肉饭、[汤居仕瓦罐煨汤](#huaxiangyuan-tjswgwt)、食光记·品膳快餐、三沁园套餐饭、江晓笼现蒸小笼包、食惠自选食堂、[面夫子](#huaxiangyuan-mfz)、[小鲜肉手工水饺](#huaxiangyuan-xxrsgsj)、渝巷里重庆小面、赣湘小厨、[豫味拉面](#huaxiangyuan-ywlm)、[沙县美食](#huaxiangyuan-sxms)、[云尚云南小锅米线](#huaxiangyuan-ysynxgmx)、馋小玥麻辣烫、现擀汉堡、[河林鸿老鸭粉丝](#huaxiangyuan-hlhlyfs)、梦鲜味花溪牛肉粉、糖克拉手作面包
+    [\*瑞幸咖啡](#luckin)、鑫龙福麻辣烫、[小鲜肉手工水饺](#huaxiangyuan-xxrsgsj)、渝巷里重庆小面、[河林鸿老鸭粉丝](#huaxiangyuan-hlhlyfs)、[豫味拉面](#huaxiangyuan-ywlm)、[沙县美食](#huaxiangyuan-sxms)、[云尚云南小锅米线](#huaxiangyuan-ysynxgmx)、轻小莳自选暖轻食、\*茶百道、[面夫子](#huaxiangyuan-mfz)、食惠·味来自选食堂、江晓笼现蒸小笼包、三沁园套餐饭、膳本味江西小炒、[汤居仕瓦罐煨汤](#huaxiangyuan-tjswgwt)、南浦拌饭、[高八斗套餐饭](#huaxiangyuan-gbdtcf)、木之家烤盘饭、潮腊烧腊饭、糖克拉手作面包
     
-    #### 百草园餐厅（2 楼）  {#eat-qishan-baicaoyuan}
-    [**麦当劳**](#baicaoyuan-mdl)、**库迪咖啡**、[雨佳烧烤（凌晨营业可外卖）](#baicaoyuan-yjsk)、[梦想咖喱](#baicaoyuan-mxgl)、[福记麻辣烫](#baicaoyuan-fjmlt)、魔肶鸡腿饭、赣湘小炒、[东福兴港式烧腊](#baicaoyuan-dfxgssl)、尚味简餐、[香熏鸭仔面](#baicaoyuan-xxyzm)、[富榕瓦罐煨汤](#baicaoyuan-frwgwt)、[旺比包子](#baicaoyuan-wbbz)、[米婆婆](#baicaoyuan-mpp)、[淳百味](#baicaoyuan-cbw)、[百草高汤粉面](#baicaoyuan-bcgtfm)、[百草羊肉粉面](#baicaoyuan-bcyrfm)、[旺旺客家牛肉面](#baicaoyuan-wwkjnrm)、螺当铺螺狮粉、[港式扒饭](#baicaoyuan-gsbf)、[蜀合记·成都担担面](#baicaoyuan-shjcdddm)、谷膳·闽味台湾卤肉饭、[东方匠作中国汉堡](#baicaoyuan-dfjzzghb)
+    #### 百草园餐厅（2 楼） {#eat-qishan-baicaoyuan}
+    [百草港式扒饭](#baicaoyuan-gsbf)、[百草高汤粉面](#baicaoyuan-bcgtfm)、营养早餐、[米婆婆](#baicaoyuan-mpp)、麦饭人、墨香瓦罐煨汤、螺当铺螺狮粉、[香熏鸭仔面](#baicaoyuan-xxyzm)、老街鲜汤牛肉粉、[梦想咖喱](#baicaoyuan-mxgl)、[东福兴港式烧腊](#baicaoyuan-dfxgssl)、赣湘小炒、[福记麻辣烫](#baicaoyuan-fjmlt)、奉天朱家小馆汤面·炸酱面、乐多滋非遗烧仙草、[蜀合记·成都担担面](#baicaoyuan-shjcdddm)、[\*麦当劳](#baicaoyuan-mdl) —— **此外，本列表修订时三味食屋正在装修。**
 
 === "北区·校外-西门"
 
@@ -181,7 +181,7 @@
     - 特色系列 `早餐` **2元**
     - 红枣豆浆 `早餐` **2元**
 
-??? note "伊樂拉面"
+??? note "伊乐拉面"
     <a id="qianyeyuan-yllm"></a>
 
     - 店长推荐系列 `正餐` **20元**
@@ -245,22 +245,6 @@
 
 #### 溢香 {#detailed-menu-qishan-yixiang}
 
-??? note "聚贤套餐饭"
-    <a id="yixiang-jxtcf"></a>
-
-    - 一荤两素一蛋套餐饭 `正餐` **13元**
-    - 双拼套餐饭 `正餐` **20元**
-
-??? note "张记石磨肠粉"
-    <a id="yixiang-zjsmcf"></a>
-
-    - 石磨肠粉系列 `正餐` **10元**
-    - 蒸米粉面系列 `正餐` **12元**
-    - 皮蛋瘦肉粥 `早餐` **8元**
-    - 烧麦 `早餐` **3元**
-    - 豆浆 `早餐` **3元**
-    - 福鼎肉片 `正餐` **8元**
-
 ??? note "佳佳香鲜烫牛肉粉"
     <a id="yixiang-jjxxtnrf"></a>
 
@@ -269,15 +253,25 @@
     - 盖饭类 `正餐` **13元**
     - 炒粉面类 `正餐` **9元**
 
-??? note "∞号汤粉·潮汕汤粉王"
-    <a id="yixiang-xhtfcstfw"></a>
+#### 文化街 {#detailed-menu-qishan-wenhuajie}
+
+??? note "8号汤粉·潮汕汤粉王"
+    <a id="wenhuajie-xhtfcstfw"></a>
 
     - 招牌汤粉系列 `正餐` **13元**
     - 葱香干拌系列 `正餐` **13元**
     - 汤饭咸饭系列 `正餐` **14元**
     - 鲜汤系列 `正餐` **8元**
 
-#### 文化街 {#detailed-menu-qishan-wenhuajie}
+??? note "张记石磨肠粉"
+    <a id="wenhuajie-zjsmcf"></a>
+
+    - 石磨肠粉系列 `正餐` **10元**
+    - 蒸米粉面系列 `正餐` **12元**
+    - 皮蛋瘦肉粥 `早餐` **8元**
+    - 烧麦 `早餐` **3元**
+    - 豆浆 `早餐` **3元**
+    - 福鼎肉片 `正餐` **8元**
 
 ??? note "云南小锅米线"
     <a id="wenhuajie-ynxgmx"></a>
@@ -471,23 +465,12 @@
     - 炸鸡腿3个 `正餐` `夜宵` **15元**
     - 炸鸡系列250克 `正餐` `夜宵` **13元**
 
-??? note "田阿婆麻辣烫"
-    <a id="cuizhuyuan-tapmlt"></a>
-
-    - 自选菜称重19.8元1斤 `正餐` **14元**
-
 #### 花香园 {#detailed-menu-qishan-huaxiangyuan}
 
 ??? note "高八斗套餐饭"
     <a id="huaxiangyuan-gbdtcf"></a>
 
     - 菜饭套餐系列 `正餐` **15元**
-
-??? note "美侍郎瓦香鸡"
-    <a id="huaxiangyuan-mslwxj"></a>
-
-    - 瓦香鸡腿块饭 `正餐` **14元**
-    - 瓦香鸡饭系列 `正餐` **13元**
 
 ??? note "汤居仕瓦罐煨汤"
     <a id="huaxiangyuan-tjswgwt"></a>
@@ -583,18 +566,6 @@
 
     - 招牌鸭仔面系列 `正餐` **12元**
 
-??? note "富榕瓦罐煨汤"
-    <a id="baicaoyuan-frwgwt"></a>
-
-    - 自选一荤一素 `正餐` **12元**
-
-??? note "旺比包子"
-    <a id="baicaoyuan-wbbz"></a>
-
-    - 包子系列 `早餐` **1.5元**
-    - 面点系列 `早餐` **2.5元**
-    - 饼系列 `早餐` **4元**
-
 
 ??? note "米婆婆"
     <a id="baicaoyuan-mpp"></a>
@@ -602,34 +573,10 @@
     - 自选一荤一素 `正餐` **10元**
     - 自选半荤半素 `正餐` **6元**
 
-??? note "淳百味"
-    <a id="baicaoyuan-cbw"></a>
-
-    - 鸡丝拌面 `正餐` **13元**
-    - 拌面系列 `正餐` **6元**
-    - 扁肉系列 `正餐` **12元**
-    - 汤面系列 `正餐` **15元**
-    - 小吃套餐 `正餐` **14元**
-    - 米饭套餐 `正餐` **16元**
-    - 米饭系列 `正餐` **13元**
-    - 小吃系列 `正餐` **5元**
-
 ??? note "百草高汤粉面"
     <a id="baicaoyuan-bcgtfm"></a>
 
     - 粉面套餐 `正餐` **9.8元**
-
-??? note "百草羊肉粉面"
-    <a id="baicaoyuan-bcyrfm"></a>
-
-    - 招牌羊肉粉 `正餐` **16元**
-
-??? note "旺旺客家牛肉面"
-    <a id="baicaoyuan-wwkjnrm"></a>
-
-    - 汤粉面系列 `正餐` **13元**
-    - 干拌面系列 `正餐` **13元**
-    - 汤系列 `正餐` **9元**
 
 ??? note "港式扒饭"
     <a id="baicaoyuan-gsbf"></a>
@@ -643,14 +590,6 @@
     - 干拌面系列 `正餐` **13元**
     - 汤面系列 `正餐` **14元**
     - 米粉系列 `正餐` **14元**
-
-??? note "东方匠作中国汉堡"
-    <a id="baicaoyuan-dfjzzghb"></a>
-
-    - 低配两件套 `正餐` **12.9元**
-    - 高配两件套 `正餐` **16.9元**
-    - 低配三件套 `正餐` **14.9元**
-    - 高配三件套 `正餐` **19.9元**
 
 #### 随园 {#detailed-menu-qishan-suiyuan}
 
