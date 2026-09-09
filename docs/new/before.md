@@ -154,7 +154,7 @@ GitHub 有相关项目，请自行了解或在此处F12（使用第三方工具�
 
 ## 新生入学考试 {#freshman-exam}
 
-2025 级疑似仅 音乐学 专业会组织入学考试，其它专业均无入学考试。
+据 2026 级经验，仅[双学位](../study/improve.md#dual-degree)专业有入学考试。
 
 ## 新生报到路线 {#freshman-orientation-transport}
 
