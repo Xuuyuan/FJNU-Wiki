@@ -55,13 +55,13 @@
 
 === "北区·榕苑"
 
-    本区域靠近榕苑，标识：麦当劳 WiFi 字样。此部分档口信息修订于 2026 年 8 月 31 日。
+    本区域靠近榕苑，标识：麦当劳 WiFi 字样。此部分档口信息修订于 2026 年 9 月 9 日。
 
     #### 花香园餐厅（1 楼） {#eat-qishan-huaxiangyuan}
     [\*瑞幸咖啡](#luckin)、鑫龙福麻辣烫、[小鲜肉手工水饺](#huaxiangyuan-xxrsgsj)、渝巷里重庆小面、[河林鸿老鸭粉丝](#huaxiangyuan-hlhlyfs)、[豫味拉面](#huaxiangyuan-ywlm)、[沙县美食](#huaxiangyuan-sxms)、[云尚云南小锅米线](#huaxiangyuan-ysynxgmx)、轻小莳自选暖轻食、\*茶百道、[面夫子](#huaxiangyuan-mfz)、食惠·味来自选食堂、江晓笼现蒸小笼包、三沁园套餐饭、膳本味江西小炒、[汤居仕瓦罐煨汤](#huaxiangyuan-tjswgwt)、南浦拌饭、[高八斗套餐饭](#huaxiangyuan-gbdtcf)、木之家烤盘饭、潮腊烧腊饭、糖克拉手作面包
     
     #### 百草园餐厅（2 楼） {#eat-qishan-baicaoyuan}
-    [百草港式扒饭](#baicaoyuan-gsbf)、[百草高汤粉面](#baicaoyuan-bcgtfm)、营养早餐、[米婆婆](#baicaoyuan-mpp)、麦饭人、墨香瓦罐煨汤、螺当铺螺狮粉、[香熏鸭仔面](#baicaoyuan-xxyzm)、老街鲜汤牛肉粉、[梦想咖喱](#baicaoyuan-mxgl)、[东福兴港式烧腊](#baicaoyuan-dfxgssl)、赣湘小炒、[福记麻辣烫](#baicaoyuan-fjmlt)、奉天朱家小馆汤面·炸酱面、悦异健康轻食（原三味食屋）、乐多滋非遗烧仙草、[蜀合记·成都担担面](#baicaoyuan-shjcdddm)、[\*麦当劳](#baicaoyuan-mdl)
+    [百草港式扒饭](#baicaoyuan-gsbf)、[百草高汤粉面](#baicaoyuan-bcgtfm)、营养早餐、[米婆婆](#baicaoyuan-mpp)、麦饭人、墨香瓦罐煨汤、螺当铺螺狮粉、[香熏鸭仔面](#baicaoyuan-xxyzm)、老街鲜汤牛肉粉、[梦想咖喱](#baicaoyuan-mxgl)、[东福兴港式烧腊](#baicaoyuan-dfxgssl)、赣湘小炒、[福记麻辣烫](#baicaoyuan-fjmlt)、奉天朱家小馆汤面·炸酱面、悦异便利鲜食、汐卷寿司、乐多滋非遗烧仙草、[蜀合记·成都担担面](#baicaoyuan-shjcdddm)、[\*麦当劳](#baicaoyuan-mdl)
 
 === "北区·校外-西门"
 
