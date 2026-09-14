@@ -60,18 +60,18 @@ nav:
     - 学生组织和学生工作: service/group.md
     - 校园导航: service/safari.md
     - 学校信息: service/info.md
-  - 资料分享: repo.md
-  - 学院详情:
-    - 版块介绍: college/index.md
+  - 资料及经验分享: 
+    - 资料分享: repo.md
+    - 碎片经验: scrap.md
+    - 【经验分享-版块介绍】: college/index.md
     - 计算机与网络空间安全学院: college/computer_and_cyber_security.md
     - 社会历史学院: college/sociology_and_history.md
-  - 社团:
-    - 社团迎新群汇总: club/index.md
+  - 社团及学生组织:
+    - 【社团迎新群汇总】: club/index.md
     - 网络与信息安全协会: club/NISA.md
     - 机器人协会: club/RoboMaster.md
     - 未来卓越教师学会: club/TSoFOT.md
-  - 学生组织:
-    - 学生组织概览: organization/overview.md
+    - 【学生组织概览】: organization/overview.md
     - 校大学生科技创新与创业中心: organization/campus-wide/kc.md
   - 关于Wiki: about.md
 extra_css:

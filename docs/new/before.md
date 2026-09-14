@@ -58,17 +58,20 @@
 
 | 名称 | 下载地址 | 作用 |
 | --- | --- | --- |
-| 福 Star | [点击下载](https://sj.qq.com/appdetail/com.systoon.fushida) | 通行码、课程表、成绩查询、人脸录入等 |
+| 福Star | [点击下载](https://sj.qq.com/appdetail/com.systoon.fushida) | 通行码、课程表、成绩查询、人脸录入等 |
 | 学习通 | [点击下载](https://sj.qq.com/appdetail/com.chaoxing.mobile) | 部分课程签到及网课、部分选修课程及网课、个性化培养周线上课程 |
 | U 校园 AI 版 | [点击下载](https://sj.qq.com/appdetail/cn.unipus.cloud) | 《大学英语》课程使用 |
 | 步道乐跑 | [点击下载](https://sj.qq.com/appdetail/com.lptiyu.tanke) | 《大学体育》课程、[校园跑](../study/physical-fitness.md#campus-running)使用 |
 | 易班 | [点击下载](https://www.yiban.cn/mobile/index.html) | 马工程系列课程，[青马易战](../study/choose.md#qingma-project)使用 |
-| WakeUp 课程表 | [点击下载](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) | 课程表软件， ~~纯净无广告~~ 新版本已有广告，建议用旧版（可以用福 Star 替代，但是这个更好用） |
+| WakeUp 课程表 | [点击下载](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) | 课程表软件， ~~纯净无广告~~ 新版本已有广告，建议用旧版（可以用 福Star 替代，但是这个更好用） |
 | 小依 | [点击下载](https://www.qtx2015.com/) | 学校统一配置的洗衣机使用的 APP，不过可以[自行购买其它洗衣机](../live/living.md#dorm-facilities) |
 | \*e 福州 | [点击下载](https://sj.qq.com/appdetail/com.digitalchina.mobile.dfhfz1) | 地铁、公交刷码（可以用支付宝替代） |
 | \*DeepSeek | [点击下载](https://download.deepseek.com/app/) | 或许是国内最好用的 LLM |
 
 ## 党团关系转接 {#league-member-transfer}
+
+!!! tip "提示"
+    “校团委楼”的正式名称为“施学共楼”，为学校网络与数据中心、共青团团委所在地，位于旗山校区又玄图书馆大讲坛孔子像对面。
 
 === "党员关系转接"
 

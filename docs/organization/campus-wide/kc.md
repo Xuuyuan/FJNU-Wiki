@@ -1,5 +1,5 @@
 
-# 组织概览
+# 校科创-组织概览
 
 !!! 提示
     本文主要由 [@doublez](https://github.com/future-gole) 在此组织期间的经历和相关文档整合而成，非官方介绍，可能存在错误。[@PlantaryWindsystem](https://github.com/PlantaryWindsystem) 根据相关文档主要对组织介绍及活动介绍进行了部分补充，信息来自往年文件（2024-2025 学年），具体信息请以最新文件为准。
