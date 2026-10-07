@@ -103,7 +103,7 @@
 
 推荐阅读｜入门 AI Infra 的资料：
 
-- [一站式 LLM 底层技术原理入门指南](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc)
+- [一站式 LLM 底层技术原理入门指南](https://v11enp9ok1h.feishu.cn/wiki/Af76wZbh4i4YvtkOkDvc56D2nZc)
 - [MLSys 入坑指南](https://zhuanlan.zhihu.com/p/608318764)
 
 **本科**不建议碰，AI / AI Infra 方向的工作大多开放给硕士/博士，而且比较吃成果和学历（量化同理）。
