@@ -90,7 +90,11 @@ markdown_extensions:
       combine_header_slug: false
       slugify: !!python/object/apply:pymdownx.slugs.slugify {}
 plugins:
-  - search
+  - search:
+      # 中文搜索必须显式声明语言，否则回落到默认的 en：
+      # 索引不分词、查询不分词，整句中文被当成单个 token，任何中文都搜不到
+      lang:
+        - zh
   - git-revision-date-localized:
       enable_creation_date: false
       enabled: !ENV [CI, false]
