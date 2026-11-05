@@ -73,6 +73,10 @@ nav:
     - 未来卓越教师学会: club/TSoFOT.md
     - 【学生组织概览】: organization/overview.md
     - 校大学生科技创新与创业中心: organization/campus-wide/kc.md
+  - 就业:
+    - 【概览】: employment/overview.md
+    - 【计算机方向】:
+      - 致不断攀登的你: employment/cs/1.md
   - 关于Wiki: about.md
 extra_css:
   - stylesheets/extra.css
